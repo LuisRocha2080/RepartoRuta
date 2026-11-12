@@ -1,0 +1,13 @@
+{
+  "name": "repartoruta",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Rutas de reparto y preventa: clientes por ruta y día, entregas, cobros y cierre de ruta sin conexión.",
+  "license": "MIT",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "test": "jest --passWithNoTests",
+    "typecheck": "tsc --noEmit"
+  }
+}
