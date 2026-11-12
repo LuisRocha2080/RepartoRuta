@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "RepartoRuta",
+    "slug": "repartoruta",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "scheme": "repartoruta",
+    "plugins": [
+      "expo-router",
+      "expo-sqlite"
+    ],
+    "android": {
+      "package": "com.luisrocha2080.repartoruta"
+    },
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
